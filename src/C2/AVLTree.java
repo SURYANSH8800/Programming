@@ -1,7 +1,4 @@
 package C2;
-
-import java.util.*;
-
 public class AVLTree {
     public static class node {
         int data, height;
