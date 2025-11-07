@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SURYANSH8800/Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SURYANSH8800/Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SURYANSH8800/Programming/tree/master/0783-search-in-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SURYANSH8800/Programming/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SURYANSH8800/Programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SURYANSH8800/Programming/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SURYANSH8800/Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SURYANSH8800/Programming/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SURYANSH8800/Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SURYANSH8800/Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SURYANSH8800/Programming/tree/master/0783-search-in-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SURYANSH8800/Programming/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SURYANSH8800/Programming/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SURYANSH8800/Programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SURYANSH8800/Programming/tree/master/0783-search-in-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SURYANSH8800/Programming/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Array
 |  |
 | ------- |
@@ -87,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/SURYANSH8800/Programming/tree/master/0257-binary-tree-paths) |
+## Sorting
+|  |
+| ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SURYANSH8800/Programming/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
