@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/SURYANSH8800/Programming/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/SURYANSH8800/Programming/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/SURYANSH8800/Programming/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/SURYANSH8800/Programming/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
