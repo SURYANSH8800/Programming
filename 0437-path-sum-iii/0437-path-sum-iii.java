@@ -1,3 +1,4 @@
+
 class Solution {
     public int pathSum(TreeNode root, int targetSum) {
         if (root == null) return 0;
